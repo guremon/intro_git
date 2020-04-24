@@ -3,3 +3,4 @@ Gitの練習
 編集しました
 ・git add
 /git commit
+git status
